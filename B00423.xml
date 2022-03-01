@@ -1,0 +1,375 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fetching home of May: or, A pretty new ditty wherein is made knowne, how each lasse doth strive for to have a green gowne. To the tune of, Roome for company, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1635</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00423</idno>
+            <idno type="STC">STC 17707</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[538]</idno>
+            <idno type="EEBO-CITATION">99891755</idno>
+            <idno type="PROQUEST">ocm99891755</idno>
+            <idno type="VID">183204</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00423)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183204)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[288])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fetching home of May: or, A pretty new ditty wherein is made knowne, how each lasse doth strive for to have a green gowne. To the tune of, Roome for company, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>For J. Wright junior, dwelling at the upper end of the Old Baily.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[1635?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date suggested by STC.</note>
+                  <note>Verse: "Now Pan leaves piping ..."</note>
+                  <note>In two parts, separated for mounting; woodcuts at head of each part.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="538" facs="tcp:183204:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 23 -->
+            <head>
+               <hi>The fetching home of May:</hi> OR,
+<l>A pretty new Ditty wherein is made knowne,</l>
+               <l>How each Laſſe doth ſtrive for to have a greene Gowne.</l>
+            </head>
+            <opener>To the Tune of, Roome for Company, &amp;c.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>NOw <hi>Pan</hi> leaves piping,</l>
+                  <l>The Gods have done feaſting,</l>
+                  <l>there's never a goddeſſe a hunting to day:</l>
+                  <l>Mortalls doe marvell at <hi>Coridons</hi> jeſting,</l>
+                  <l>that lends them aſſiſting to entertaine May.</l>
+                  <l>The Lads and the Laſſes,</l>
+                  <l>With ſcarfes on their faces,</l>
+                  <l>So lively it paſſes,</l>
+                  <l>trips over the downes:</l>
+                  <l>Much mirth and ſport they make</l>
+                  <l>Running at Barley-breake,</l>
+                  <l>Good lack what paines they take</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>for their greene Gownes.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Fine <hi>Iohn</hi> and <hi>Gillian,</hi>
+                  </l>
+                  <l>
+                     <hi>Henry</hi> with <hi>Franſes,</hi>
+                  </l>
+                  <l>
+                     <hi>Meg</hi> with <hi>Mary,</hi> and <hi>Robin</hi> with <hi>Will:</hi>
+                  </l>
+                  <l>
+                     <hi>George</hi> and <hi>Margery</hi> ſet all the dances,</l>
+                  <l>for they were reported to have the beſt skil.</l>
+                  <l>
+                     <hi>Siſle</hi> and <hi>Nanne</hi>
+                  </l>
+                  <l>The faireſt of many,</l>
+                  <l>That came laſt of any</l>
+                  <l>from out of the Towne,</l>
+                  <l>Quickly got in among</l>
+                  <l>The middeſt of the throng,</l>
+                  <l>Thus they ſo much did long</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>for the greene Gowne.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Blanch</hi> and <hi>Betaris</hi>
+                  </l>
+                  <l>Both of a Family,</l>
+                  <l>came very laſely lagging behind:</l>
+                  <l>
+                     <hi>Anes</hi> and <hi>Anibell</hi> noted their policie,</l>
+                  <l>
+                     <hi>Cupid</hi> is cunning allthough he be blind:</l>
+                  <l>
+                     <hi>Winny</hi> the witty</l>
+                  <l>That came from the Citie,</l>
+                  <l>With <hi>Parnell</hi> the pretty,</l>
+                  <l>and <hi>Beſſe</hi> the browne:</l>
+                  <l>
+                     <hi>Clim Ione</hi> and <hi>Iſabell,</hi>
+                  </l>
+                  <l>
+                     <hi>Su Alſe</hi> and bonny <hi>Nell,</hi>
+                  </l>
+                  <l>Liked of their journeys well,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>for the greene Gowne.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>But wanton <hi>Deborah</hi>
+                  </l>
+                  <l>Whiſpered to <hi>Dorrity,</hi>
+                  </l>
+                  <l>that ſhe ſhould wink upon <hi>Richard</hi> &amp; <hi>Sim,</hi>
+                  </l>
+                  <l>Now minſing <hi>Maudlin</hi> ſhewd her autority,</l>
+                  <l>and in the quarrell did venter a limme:</l>
+                  <l>
+                     <hi>Sibill</hi> was ſickly</l>
+                  <l>And could not come quickly,</l>
+                  <l>And therefore was lickely</l>
+                  <l>to fall in a ſwound.</l>
+                  <l>There was none would tarry</l>
+                  <l>For <hi>Hugh</hi> nor for <hi>Harry,</hi>
+                  </l>
+                  <l>Leſt <hi>Chriſtian</hi> ſhould carry</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>away the greene Gowne.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Thus all the Youngſters</l>
+                  <l>Had reach'd the gréene Meddowes,</l>
+                  <l>where they apointed to gather their May,</l>
+                  <l>Som in the Sunſhine, &amp; ſom in the ſhadows,</l>
+                  <l>ſingled in couples did fall to their play.</l>
+                  <l>Conſtant <hi>Penelope</hi>
+                  </l>
+                  <l>Faith, Hope and Charity,</l>
+                  <l>Looked very modeſtly,</l>
+                  <l>yet they ſafe downe:</l>
+                  <l>
+                     <hi>Prudens</hi> prevented</l>
+                  <l>What <hi>Rachell</hi> repented,</l>
+                  <l>And <hi>Cate</hi> was contented</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>to take the greene Gowne.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="ballad">
+               <pb n="539" facs="tcp:183204:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 23 -->
+               <head>The ſecond part,</head>
+               <opener>To the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>THis Maying ſo pleaſed,</l>
+                  <l>Moſt of the fine Laſſes,</l>
+                  <l>that they much deſired to fetch in May flowers,</l>
+                  <l>For to ſtrew the windows &amp; ſuch like places,</l>
+                  <l>beſides they'l have May bows fit for ſhady Rowers.</l>
+                  <l>But moſt of all they goe</l>
+                  <l>To find where love doth growe,</l>
+                  <l>Each young man knowes 'tis ſo,</l>
+                  <l>elſe hée's Clowne:</l>
+                  <l>For 'tis an old ſaying</l>
+                  <l>There is great joying,</l>
+                  <l>When Maids goe a Maying,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>they'll have a greene Gowne.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Maidens and young men goe</l>
+                  <l>As 'tis an order old</l>
+                  <l>for to drink merrily, and eat ſpiced Cakes,</l>
+                  <l>The Lads &amp; the Laſſes their cuſtoms wil hold</l>
+                  <l>for they wil goe walk i'th fields like loving Mates:</l>
+                  <l>
+                     <hi>Em</hi> calls for <hi>Mary,</hi>
+                  </l>
+                  <l>And <hi>Ruth</hi> calls for <hi>Sarah,</hi>
+                  </l>
+                  <l>
+                     <hi>Iddy</hi> calls for <hi>Hary</hi>
+                  </l>
+                  <l>to man them along:</l>
+                  <l>
+                     <hi>Martin</hi> calls <hi>Marcy,</hi>
+                  </l>
+                  <l>
+                     <hi>Dick</hi> calls for <hi>Debary,</hi>
+                  </l>
+                  <l>Then they goe lovingly</l>
+                  <l>
+                     <hi>all in a throng.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The bright <hi>Apollo</hi>
+                  </l>
+                  <l>Was all the while péeping,</l>
+                  <l>to ſée if his Daphne had bin in the throng,</l>
+                  <l>And miſſing her haſtily downward was crée<g ref="char:EOLhyphen"/>ping,</l>
+                  <l>for that's imagined they tarri'd too lo<g ref="char:cmbAbbrStroke">̄</g>g</l>
+                  <l>Then all the troope mourned</l>
+                  <l>And homeward returned,</l>
+                  <l>For <hi>Cynthia</hi> ſcorned</l>
+                  <l>to ſmils or to frowne:</l>
+                  <l>Thus did they gather May</l>
+                  <l>All the long Summers day,</l>
+                  <l>And went at night away,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>each with a greene Gowne.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Bright <hi>Venus</hi> ſtill gliſters,</l>
+                  <l>Out ſhining of <hi>Luna,</hi>
+                  </l>
+                  <l>
+                     <hi>Saturne</hi> was preſent, as right did require,</l>
+                  <l>And he called <hi>Iupiter</hi> with his Quéen <hi>Iuno,</hi>
+                  </l>
+                  <l>to ſée how Dame <hi>Venus</hi> did burn in deſire:</l>
+                  <l>Now <hi>Iove</hi> ſent <hi>Mercury</hi>
+                  </l>
+                  <l>To <hi>Vulcan</hi> haſtily,</l>
+                  <l>Becauſe he ſhould deſcry</l>
+                  <l>Dame <hi>Venus</hi> down:</l>
+                  <l>
+                     <hi>Vulkan</hi> came running,</l>
+                  <l>On <hi>Mars</hi> he ſtood frowning,</l>
+                  <l>Yet for all his cunning,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Venus had a greene Gowne.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Cupid</hi> ſhootes Arrowes</l>
+                  <l>At <hi>Venus</hi> her Darlings,</l>
+                  <l>for they are neareſt unto him by kind:</l>
+                  <l>
+                     <hi>Diana</hi> he hits not nor ca<g ref="char:cmbAbbrStroke">̄</g> he pierce worldlings</l>
+                  <l>for they have ſtrong armour his darts to defend:</l>
+                  <l>The one hath chaſtity,</l>
+                  <l>And <hi>Cupid</hi> doth defie,</l>
+                  <l>The others cruelty,</l>
+                  <l>makes him a clowne:</l>
+                  <l>But leaving this I ſée,</l>
+                  <l>From <hi>Cupid</hi> few are frée,</l>
+                  <l>And ther's much courteſie</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>in a greene Gowne.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for <hi>J. Wright</hi> junior, dwelling at the upper end of the Old Baily.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
